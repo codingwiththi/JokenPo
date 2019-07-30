@@ -2,4 +2,4 @@
  Meu primeiro aplicativo em Flutter, um joguinho JokenPô!<br>
  
  <b>CAPTURA DE TELA</b>
-![](images/modelagem/modelo_conceitual.png
+![](images/Captura%20de%20Tela%20(132).png)
