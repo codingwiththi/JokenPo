@@ -127,7 +127,7 @@ class _JogoState extends State<Jogo> {
                 child: Text(
                   "Vitórias: $_numVit",
                   style: TextStyle(
-                      fontSize: 20,
+                      fontSize: 15,
                       fontWeight: FontWeight.bold
                   ),
 
@@ -139,7 +139,7 @@ class _JogoState extends State<Jogo> {
                 child: Text(
                   "Empates: $_numEmp",
                   style: TextStyle(
-                      fontSize: 20,
+                      fontSize: 15,
                       fontWeight: FontWeight.bold
                   ),
 
@@ -151,7 +151,7 @@ class _JogoState extends State<Jogo> {
                 child: Text(
                   "Derrotas: $_numDer",
                   style: TextStyle(
-                      fontSize: 20,
+                      fontSize: 15,
                       fontWeight: FontWeight.bold
                   ),
 
